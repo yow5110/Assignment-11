@@ -10,6 +10,6 @@ In this Task we will explore a special type of random walk – Pareto Walk in 2D
 
 A sample output figure of the result is attached.
 
-Many animals adopt Pareto Walk as a strategy to search for food: when wandering around an area is not helpful, it's more efficient to leave the area and make long jumps to somewhere else to continue exploring.
+Many animals adopt Pareto Walk as a strategy to search for food: when wandering around an area carefully in small steps is not helpful, it's more efficient to leave the area in long jumps toward somewhere else to continue careful exploring in small steps.
 
 See more at https://en.wikipedia.org/wiki/L%C3%A9vy_flight
