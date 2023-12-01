@@ -1,6 +1,4 @@
-# Week 14 Task 3
-
-In this Task we will explore a special type of random walk – Pareto Walk in 2D – included as one of the classes defined in nd_rw.py. In Pareto Walk, a particle can take steps in any directions and random magnitudes. The particle will make small frequent small steps and occasional long steps. We will compare it with random walk on a 2D square lattice, which we are familiar with.
+In this problem we will explore a special type of random walk – Pareto Walk in 2D – included as one of the classes defined in nd_rw.py. In Pareto Walk, a particle can take steps in any directions and random magnitudes. The particle will make small frequent small steps and occasional long steps. We will compare it with random walk on a 2D square lattice, which we are familiar with.
 
 - Use the _get_steps() method to obtain the step magnitudes of the two types of random walk (Nstep numbers for lattice_2d and Nstep numbers for pareto_2d), and plot a histogram of step magnitudes of each type of random walk. The average step size of both types of random walk is 1. 
 
